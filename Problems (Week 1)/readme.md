@@ -3,5 +3,5 @@
 ## FizzBuzzNoLoop
 ### Problem Statement
 #### Description
-#### Input Example
-#### Output Example
+#### Input Format
+#### Output Format
