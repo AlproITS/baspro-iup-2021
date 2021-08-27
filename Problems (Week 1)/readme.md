@@ -2,3 +2,6 @@
 
 ## FizzBuzzNoLoop
 ### Problem Statement
+#### Description
+#### Input Example
+#### Output Example
