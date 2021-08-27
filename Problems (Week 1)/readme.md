@@ -5,3 +5,10 @@
 #### Description
 #### Input Format
 #### Output Format
+#### Example
+* Input
+  <pre>
+  </pre>
+* Output
+  <pre>
+  </pre>
