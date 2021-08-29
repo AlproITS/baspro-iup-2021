@@ -7,7 +7,13 @@
 |       |   |
 #### Description
 #### Input Format
+  A single integer (n) as described in the problem description.
 #### Output Format
+  Print either:
+  * 'Fizz' if n is divisible by 3,
+  * 'Buzz' if n is divisible by 5,
+  * 'FizzBuzz' if n is divisible by 3 and 5,
+  * else n if neither.
 #### Example
 * Input 0
   <pre>
@@ -34,5 +40,5 @@
     FizzBuzz
   </pre>
 #### Constraints
-
+0 < n < 2,147,483,647
 ## Problem 2
