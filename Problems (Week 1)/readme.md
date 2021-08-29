@@ -4,8 +4,11 @@
 ### Problem Statement
 | Expected Runtime  | Memory Limit  |
 | ----------------  | ------------- |
-|       |   |
+|    1 ms   |   |
 #### Description
+  Doe is a first-year student of Informatics, ITS. One day, he applied for an internship position at FUND Corp. as a Software Engineer there. During the selection process, his coding skills were tested. Unfortunately, he had difficulties solving a problem and was given a chance to contact a friend to help him. Doe decided to ask for your help. Write a program so that Doe can be accepted!
+  
+  The program will receive a single integer, n, as an input. Then based on n's value, it will output: 'Fizz' if n is divisible by 3, 'Buzz' if n is divisible by 5, both as 'FizzBuzz' if n is divisible by 3 and 5, or simply print out n if it is not divisible by either 3 or 5.
 #### Input Format
   A single integer (n) as described in the problem description.
 #### Output Format
