@@ -145,9 +145,9 @@
 ## Dedibay and His Immortal Life
 #### Descriptions
 
-Once upon a time, lived an old man called Dedibay. He lived alone in the middle of the forest with no lover, children, and neighbors. He sleeps, breakfast, lunch, dinner alone. He did his daily activity alone. He did that because he wanted to get an immortal live. When he was young, he went to Dukun. The Dukun gave the rules that Dedibay needs to do to live immortal. There are only two rules. First, Dedibay can’t live together with anybody, relatives, even with no neighbor. Second, Dedibay should eat equal amount of every foodstuff.
+A long time ago, lived an old man called “Dedibay”. He lived alone in the middle of the savanna with no lover, children, neighbors, even humans around him. He sleeps and eats alone. He did his daily activity alone. He did that because he wanted to get an immortal life. When he was young, he went to Dukun. The Dukun gave the rules that Dedibay needs to do to live immortal. There are only two rules. First, Dedibay cannot live together with anybody, relatives, even with no neighbor. Second, Dedibay should eat an equal amount of every foodstuff.
 
-The first rules had been fulfilled. But now, Dedibay is having a problem with the second rules. Dedibay lives immortal, but his physics also his brain is getting older. The more Dedibay getting older, the more his brain getting slower. Because of that, help Dedibay to count his foodstuff to get the equal amount so he can continue his immortal live. If the foodstuff is equal, print "YES! DEDIBAY CAN LIVE IMMORTAL" without the quotation marks. If the foodstuff is not equal, print "NO! GOODBYE DEDIBAY, RIP" without the quotation marks.
+The first rules had been fulfilled. However, now, Dedibay is having a problem with the second rule. Dedibay lives immortal, but his physique and brain never stopped aging. The more Dedibay got, the slower his brain got. Because of that, help Dedibay count his food to an equal amount to preserve his immortal life. If the foodstuff is equal, print “YES! DEDIBAY CAN LIVE FOREVER” without quotation marks. If the foodstuff is not equal, print “NO! GOODBYE DEDIBAY, RIP” without the quotation marks.
 
 #### Input Format
   A single integer (n) as foodstuff that you want to compare.
