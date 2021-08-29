@@ -129,9 +129,9 @@
     10
   </pre>
 * Input 3
-<pre>
-  6 / 2
-</pre>
+  <pre>
+    6 / 2
+  </pre>
 * Output 3
   <pre>
     3
