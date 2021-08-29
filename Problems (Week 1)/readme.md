@@ -9,25 +9,28 @@
 #### Input Format
 #### Output Format
 #### Example
-* Example Test case 0
+* Input 0
   <pre>
-    Input
-    1
-    Output
     1
   </pre>
-* Example Test case 1
+* Output 0
   <pre>
-    Input
+    1
+  </pre>
+* Input 1
+  <pre>
     3
-    Output
+  </pre>
+* Output 1
+  <pre>
     Fizz
   </pre>
-* Example Test case 2
+* Input 2
   <pre>
-    Input
     15
-    Output
+  </pre>
+* Output 2
+  <pre>
     FizzBuzz
   </pre>
 #### Constraints
