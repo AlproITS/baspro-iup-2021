@@ -142,7 +142,6 @@
 
 
 
-## Problem 4
 ## Dedibay and His Immortal Life
 #### Descriptions
 
