@@ -174,6 +174,9 @@ The first rules had been fulfilled. But now, Dedibay is having a problem with th
     <pre>
     NO! GOODBYE DEDIBAY, RIP
     </pre>
+    
+ #### Constraints
+1 < n <= 2,147,483,647
 
 
 
