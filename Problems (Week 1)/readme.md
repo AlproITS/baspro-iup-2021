@@ -179,4 +179,39 @@ The first rules had been fulfilled. However, Dedibay is having a problem with th
 1 < n <= 2,147,483,647
 
 
+## Teacher, can you give me a grade?
+### Description 
+At a school, there is a teacher named Alex who is very good, he likes to give his students grades on the same day when they take their exams, but because too many people take exams, Alex is tired, help Alex by creating a program that can give grades
 
+
+#### Input Format
+  float variable;
+  a float variable contains her/his grade
+  
+#### Output Format
+  “A“ if the grade is 86.0 – 100
+  “AB“ if the grade is 76.0 – 85.99
+  “B“ if the grade is 66.0 – 75.99
+  “BC“ if the grade is 61.0 – 65.99
+  “C“ if the grade is 56.0 – 60.99
+  “D“ if the grade is 41.0 – 55.99
+  “E“ if the grade is 0.0 – 40.99 
+  
+#### Example
+  * Input 0
+    <pre>
+    86.0
+    </pre>
+  * Output 0
+    <pre>
+    A
+    </pre>
+  * Input 1
+    <pre>
+    85.99
+    </pre>
+  * Output 1
+    <pre>
+    AB
+    </pre>
+    
