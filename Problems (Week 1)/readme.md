@@ -191,11 +191,17 @@ At a school, there is a teacher named Alex who is very good, he likes to give hi
   
 #### Output Format
   “A“ if the grade is 86.0 – 100
+  
   “AB“ if the grade is 76.0 – 85.99
+  
   “B“ if the grade is 66.0 – 75.99
+  
   “BC“ if the grade is 61.0 – 65.99
+  
   “C“ if the grade is 56.0 – 60.99
+  
   “D“ if the grade is 41.0 – 55.99
+  
   “E“ if the grade is 0.0 – 40.99 
   
 #### Example
