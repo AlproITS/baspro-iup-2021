@@ -58,7 +58,7 @@
   If he can print "YES HE CAN" without the quotation marks. If he fails, print "NO HE CAN'T" without the quotation marks.
  
 #### Example
-  * Input 0
+* Input 0
   <pre>
     1 1 1 1 1
   </pre>
