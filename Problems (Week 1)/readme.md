@@ -204,6 +204,8 @@ At a school, there is a teacher named Alex who is very good, he likes to give hi
   
   “E“ if the grade is 0.0 – 40.99 
   
+  "Out of bound" if the input grade is not between 0 - 100
+  
 #### Example
   * Input 0
     <pre>
@@ -220,5 +222,13 @@ At a school, there is a teacher named Alex who is very good, he likes to give hi
   * Output 1
     <pre>
     AB
+    </pre>
+    * Input 2
+    <pre>
+    101
+    </pre>
+  * Output 2
+    <pre>
+    Out of bound
     </pre>
     
