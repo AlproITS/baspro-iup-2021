@@ -9,11 +9,29 @@
 #### Input Format
 #### Output Format
 #### Example
-* Input
+* Input 0
   <pre>
+    1
   </pre>
-* Output
+* Output 0
   <pre>
+    1
+  </pre>
+* Input 1
+  <pre>
+    3
+  </pre>
+* Output 1
+  <pre>
+    Fizz
+  </pre>
+* Input 2
+  <pre>
+    15
+  </pre>
+* Output 2
+  <pre>
+    FizzBuzz
   </pre>
 #### Constraints
 
