@@ -148,13 +148,13 @@
 
 A long time ago, lived an old man called “Dedibay”. He lived alone in the middle of savanna with no lover, children, neighbors, even human around him. He sleeps alone, breakfast, lunch, dinner alone, He did his daily activity alone. He did that because he wanted to get an immortal live. When he was young, he went to Dukun. The Dukun gave the rules that Dedibay needs to do to live immortal. There are only two rules. First, Dedibay can’t live together with any person, relatives, even with no neighbor. Second, Dedibay should eat equal amount of every food stuff.
 
-The first rules had been fulfilled. But now, Dedibay is having a problem with the second rules. Dedibay lives immortal, but his physics also his brain is getting older. The more Dedibay getting older, the more his brain getting slower. Because of that, help Dedibay to count his food stuff to get the equal amount so he can continue his immortal live. If the food stuff is equal, print "YES! DADDY CAN LIVE IMMORTAL" without the quotation marks. If the food stuff is not equal, print "NO! GOODBYE DADDY, RIP" without the quotation marks.
+The first rules had been fulfilled. But now, Dedibay is having a problem with the second rules. Dedibay lives immortal, but his physics also his brain is getting older. The more Dedibay getting older, the more his brain getting slower. Because of that, help Dedibay to count his food stuff to get the equal amount so he can continue his immortal live. If the food stuff is equal, print "YES! DEDIBAY CAN LIVE IMMORTAL" without the quotation marks. If the food stuff is not equal, print "NO! GOODBYE DEDIBAY, RIP" without the quotation marks.
 
 #### Input Format
   A single integer (n) as foodstuff that you want to compare.
   
 #### Output Format 
-  If the food stuff is equal, print "YES! DADDY CAN LIVE IMMORTAL" without the quotation marks. If the food stuff is not equal, print "NO! GOODBYE DADDY, RIP" without the quotation marks.
+  If the food stuff is equal, print "YES! DEDIBAY CAN LIVE IMMORTAL" without the quotation marks. If the food stuff is not equal, print "NO! GOODBYE DEDIBAY, RIP" without the quotation marks.
   
 #### Example
   * Input 0
@@ -164,16 +164,16 @@ The first rules had been fulfilled. But now, Dedibay is having a problem with th
     </pre>
   * Output 0
     <pre>
-    YES! DADDY CAN LIVE IMMORTAL
+    YES! DEDIBAY CAN LIVE IMMORTAL
     </pre>
-  * Input 0
+  * Input 1
     <pre>
     2
     1
     </pre>
-  * Output 0
+  * Output 1
     <pre>
-    NO! GOODBYE DADDY, RIP
+    NO! GOODBYE DEDIBAY, RIP
     </pre>
 
 
