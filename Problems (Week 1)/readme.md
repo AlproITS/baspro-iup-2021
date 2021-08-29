@@ -147,7 +147,7 @@
 
 A long time ago, lived an old man called “Dedibay”. He lived alone in the middle of the savanna with no lover, children, neighbors, even humans around him. He sleeps and eats alone. He did his daily activity alone. He did that because he wanted to get an immortal life. When he was young, he went to Dukun. The Dukun gave the rules that Dedibay needs to do to live immortal. There are only two rules. First, Dedibay cannot live together with family, relatives, even with no neighbor. Second, Dedibay should only eat an equal amount of two foodstuffs.
 
-The first rules had been fulfilled. However, now, Dedibay is having a problem with the second rule. Dedibay lives immortal, but his body and brain never stopped aging. The more Dedibay getting older, the slower his brain. Because of that, help Dedibay count his food to an equal amount to continue his immortal life. If the foodstuffs is only two and equal, print “YES! DEDIBAY CAN LIVE FOREVER” without quotation marks. If the foodstuff is not equal, print “NO! GOODBYE DEDIBAY, RIP” without the quotation marks.
+The first rules had been fulfilled. However, Dedibay is having a problem with the second rule. Dedibay lives immortal, but his body and brain never stopped aging. The more Dedibay getting older, the slower his brain. Because of that, help Dedibay count his food to an equal amount to continue his immortal life. If the foodstuffs is only two and equal, print “YES! DEDIBAY CAN LIVE FOREVER” without quotation marks. If the foodstuff is not equal, print “NO! GOODBYE DEDIBAY, RIP” without the quotation marks.
 
 #### Input Format
   A single integer (n) as foodstuff that you want to compare.
