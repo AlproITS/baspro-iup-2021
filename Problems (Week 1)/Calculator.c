@@ -3,7 +3,7 @@
 int main()
 {
     // & means the address
-    float a, c;
+    int a, c;
     char b;
     int answer;
     scanf("%d %c %d", &a, &b, &c);
