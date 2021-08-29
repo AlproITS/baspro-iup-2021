@@ -143,7 +143,7 @@
 
 
 ## Problem 4
-## Dedibay and His Rules
+## Dedibay and His Immortal Life
 #### Descriptions
 
 A long time ago, lived an old man called “Dedibay”. He lived alone in the middle of savanna with no lover, children, neighbors, even human around him. He sleeps alone, breakfast, lunch, dinner alone, He did his daily activity alone. He did that because he wanted to get an immortal live. When he was young, he went to Dukun. The Dukun gave the rules that Dedibay needs to do to live immortal. There are only two rules. First, Dedibay can’t live together with any person, relatives, even with no neighbor. Second, Dedibay should eat equal amount of every food stuff.
