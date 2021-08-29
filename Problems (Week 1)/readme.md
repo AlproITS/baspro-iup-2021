@@ -4,7 +4,7 @@
 ### Problem Statement
 | Expected Runtime  | Memory Limit  |
 | ----------------  | ------------- |
-| Content Cell      | Content Cell  |
+|       |   |
 #### Description
 #### Input Format
 #### Output Format
