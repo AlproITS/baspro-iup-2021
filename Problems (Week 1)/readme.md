@@ -93,3 +93,49 @@
 
 
 ## Problem 3
+## Simple Calculator
+#### Descriptions
+  Make a calculator please :)
+  
+#### Input Format
+  A single line consisting of an integer, a mathematical sign (" +, -, /, * ") and another integer.
+
+#### Output Format
+  Print the answer according to the input.  
+ 
+#### Example
+* Input 0
+  <pre>
+   5 + 5
+  </pre>
+* Output 0
+  <pre>
+    10
+  </pre>
+* Input 1
+  <pre>
+   5 - 3
+  </pre>
+* Output 1
+  <pre>
+   2
+  </pre>
+* Input 2
+  <pre>
+    5 * 2
+  </pre>
+* Output 2
+  <pre>
+    10
+  </pre>
+* Input 3
+<pre>
+  6 / 2
+</pre>
+* Output 3
+  <pre>
+    3
+  </pre>
+  
+#### Constraints
+1 < n <= 2,147,483,647
