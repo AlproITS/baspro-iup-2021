@@ -186,6 +186,7 @@ At a school, there is a teacher named Alex who is very good, he likes to give hi
 
 #### Input Format
   float variable;
+  
   a float variable contains her/his grade
   
 #### Output Format
