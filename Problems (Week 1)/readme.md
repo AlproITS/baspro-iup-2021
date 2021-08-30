@@ -92,7 +92,6 @@
 
 
 
-## Problem 3
 ## Simple Calculator
 #### Descriptions
   Make a calculator please :)
